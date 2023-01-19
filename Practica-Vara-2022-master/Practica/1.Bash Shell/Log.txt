@@ -1,0 +1,64 @@
+________________________
+luni 11 iulie 2022, 12:32:24 +0300 + Fisierul 13.txt a fost sters
+________________________
+{ luni 11 iulie 2022, 12:33:24 +0300 ] Fisierul 56.txt a fost sters
+________________________
+{ luni 11 iulie 2022, 12:33:40 +0300 ] Fisierul 7676 a fost sters
+________________________
+[ luni 11 iulie 2022, 12:34:12 +0300 ] Fisierul 56 a fost sters din locatia asta: /home/baumdev/Practica/2.Logs
+________________________
+[ luni 11 iulie 2022, 12:34:19 +0300 ] Fisierul 124.txt a fost sters din locatia asta: /home/baumdev/Practica/2.Logs
+________________________
+[ luni 11 iulie 2022, 12:35:40 +0300 ] Fisierul 7.txt a fost sters din locatia asta: /home/baumdev/Practica/2.Logs
+________________________________________________________________
+[ luni 11 iulie 2022, 12:37:50 +0300 ] Fisierul script3.txt a fost sters !
+________________________________________________________________
+[ luni 11 iulie 2022, 12:38:11 +0300 ] Fisierul 12.txt a fost sters !
+_____________________________________________________________________________
+[ luni 11 iulie 2022, 12:40:24 +0300 ] Fisierul 45.txt a fost sters !
+_____________________________________________
+[luni 11 iulie 2022, 12:43:43 +0300] Fisierul 1.txt a fost sters !
+_____________________________________________
+[luni 11 iulie 2022, 12:45:50 +0300] Fisierul 12.txt a fost sters !
+_____________________________________________
+[luni 11 iulie 2022, 12:48:39 +0300] Fisierul 8 a fost sters !
+_____________________________________________
+[luni 11 iulie 2022, 12:50:50 +0300] Fisierul 93.txt a fost sters !
+_____________________________________________
+[luni 11 iulie 2022, 12:51:50 +0300] Fisierul 12.txt a fost sters !
+_____________________________________________
+
+[luni 11 iulie 2022, 12:52:15 +0300] Fisierul 184.txt a fost sters !
+_____________________________________________
+ 
+[luni 11 iulie 2022, 12:52:42 +0300] Fisierul 40298.txt a fost sters !
+_____________________________________________
+ 
+[luni 11 iulie 2022, 12:58:48 +0300] Fisierul 3 a fost sters !
+_____________________________________________
+ 
+[luni 11 iulie 2022, 12:59:02 +0300] Fisierul 125.txt a fost sters !
+_____________________________________________
+ 
+[luni 11 iulie 2022, 13:00:06 +0300] Fisierul 12.txt a fost sters !
+_____________________________________________
+ 
+[luni 11 iulie 2022, 13:05:07 +0300] script3M.sh 32.txt a/au fost sters !
+_____________________________________________
+ 
+[luni 11 iulie 2022, 13:09:25 +0300] 12.txt 1.txt a/au fost sters/sterse !
+_____________________________________________
+ 
+[luni 11 iulie 2022, 13:11:27 +0300] 90.txt a/au fost sters/sterse !
+_____________________________________________
+ 
+[luni 11 iulie 2022, 13:16:46 +0300] A/au fost sters/e 4.txt 213.txt !
+_____________________________________________
+ 
+[luni 11 iulie 2022, 13:18:12 +0300] A/au fost sters/e: 1.txt 2.txt !
+_____________________________________________
+ 
+[luni 11 iulie 2022, 13:18:34 +0300] A/au fost sters/e: 14.txt !
+_____________________________________________
+ 
+[luni 11 iulie 2022, 13:19:26 +0300] A/au fost sters/e: 13.txt !

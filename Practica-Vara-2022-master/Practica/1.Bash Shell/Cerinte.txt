@@ -1,0 +1,8 @@
+Cerinta 1
+Intr-un fisier avem 10.txt (1.txt, 2.txt ... 10.txt), avem nevoie de un script care sa redenumeasca 3 dintre .txt-uri si sa le faca hidden files, apoi sa stearga tot ce e in folder(fara alea hidden) apoi sa le redenumeasca alea hidden inapoi ca sa numa fie hidden.
+
+Cerinta 2
+Din alea 10.txt din fisier, 3 trebuie sa contina cuvantul "apartament" si restu cuvantul "casa", cele care contin casa sa le stearga si alea cu "apartament" sa ramana.
+
+Cerinta 3
+Cream un script in care sa stearga fisiere din folder respectiv in care se afla scriptul si dupa stergerea fisierului, sa scrie in fisierul Log.txt ce fisiere si la ce data au fost sterse.
