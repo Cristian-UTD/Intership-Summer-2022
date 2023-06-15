@@ -1,1 +1,1 @@
-# Practice-Summer-2022
+# Stagiu De Practica Vara 2022
