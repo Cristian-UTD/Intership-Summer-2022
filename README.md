@@ -10,6 +10,8 @@ For Bash Shell:
 
 For Python:
 1. To create a application for a user to select a period for a vacation using a calendar made in app (similar to website Booking.com), writing his name and send a email for requesting vacation period selected from calendar.
+
 The photo of application:
-   ![Screenshot 2023-06-20 154414](https://github.com/Cristian-UTD/Intership-Summer-2022/assets/108021735/b2005cc4-64f0-4ef4-95fc-647c25f5a592)
+![Screenshot 2023-06-20 154414](https://github.com/Cristian-UTD/Intership-Summer-2022/assets/108021735/b2005cc4-64f0-4ef4-95fc-647c25f5a592)
+
 2. To create a code to take car numbers with ITP date and Insurance date from another file using class and check them if the dates are expired and write on .docx file as a log if they are fined or not.
