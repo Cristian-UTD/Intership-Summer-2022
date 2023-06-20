@@ -1,7 +1,5 @@
 #!/bin/bash
 
-cd /home/baumdev/Practica/1.Texte
-
 for x in {1..10} 
 do
 if [[ $(($x+2)) == 3 || $(($x+2)) == 6 || $(($x+2)) == 9  ]]
