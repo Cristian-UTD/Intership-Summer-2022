@@ -4,12 +4,6 @@ ________________________
 { luni 11 iulie 2022, 12:33:24 +0300 ] Fisierul 56.txt a fost sters
 ________________________
 { luni 11 iulie 2022, 12:33:40 +0300 ] Fisierul 7676 a fost sters
-________________________
-[ luni 11 iulie 2022, 12:34:12 +0300 ] Fisierul 56 a fost sters din locatia asta: /home/baumdev/Practica/2.Logs
-________________________
-[ luni 11 iulie 2022, 12:34:19 +0300 ] Fisierul 124.txt a fost sters din locatia asta: /home/baumdev/Practica/2.Logs
-________________________
-[ luni 11 iulie 2022, 12:35:40 +0300 ] Fisierul 7.txt a fost sters din locatia asta: /home/baumdev/Practica/2.Logs
 ________________________________________________________________
 [ luni 11 iulie 2022, 12:37:50 +0300 ] Fisierul script3.txt a fost sters !
 ________________________________________________________________
