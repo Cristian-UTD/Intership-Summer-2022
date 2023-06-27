@@ -1,6 +1,6 @@
 # Intership Summer 2022
 
-During the intership at Baum Engineering, I was taught how to make scripts in Bash Shell and made 2 applications in Python.
+During the intership, I was taught how to make scripts in Bash Shell and made 2 applications in Python.
 At intership I receive the following task:
 
 For Bash Shell:
